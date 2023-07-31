@@ -1,16 +1,14 @@
-### Hi there 👋
+### **boas vindas ao meu perfil**  🌑 🦇 
 
-<!--
-**mokudinn/mokudinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### **meu nome é Leo**
 
-Here are some ideas to get you started:
+### **estou estudando na Alura 
+### **estou me desenvolvendo na linguagem JavaSript**
+### **utilizo esse espaço  para  minha organizaçao e compartilhamento  dos meus projetos**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  **para entrar em contato cmg** 📧
+leonardo.pereira.silva06@escola.pr.gov.br
+
+**@mokudinn**
+
+![]()https://tenor.com/pt-BR/view/matue-pelado-gif-21933335
