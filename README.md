@@ -1,6 +1,6 @@
 ### **boas vindas ao meu perfil**  🌑 🦇 
 
-  ### *meu nome é Leo**
+  ### *meu nome é Leo*
 
 ### **estou estudando na Alura 
 ### **estou me desenvolvendo na linguagem JavaSript**
